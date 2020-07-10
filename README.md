@@ -1,1 +1,1 @@
-![construction](https://raw.githubusercontent.com/redraw/redraw/master/construction.gif)
+![construction](https://raw.githubusercontent.com/redraw/redraw/master/800x600.gif)
